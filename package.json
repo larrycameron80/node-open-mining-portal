@@ -36,7 +36,7 @@
         "node-json-minify": "*",
         "redis": "0.12.1",
         "mysql": "*",
-        "async": "1.5.2",
+        "async": "3.2.2",
         "express": "*",
         "body-parser": "*",
         "compression": "*",
